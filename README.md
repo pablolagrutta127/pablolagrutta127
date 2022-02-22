@@ -1,5 +1,5 @@
-- 👋 Hi all, I’m @pablolagrutta127, I graduated as BS in electronics and I am currently developing Python scripts to test devices (Linux O.S based) features.
-- 🌱 I’m currently learning bash scripting and migrating desktop Apps to web apps.
+- 👋 Hi all, I’m @pablolagrutta127, I graduated as BS in electronics and I use to write scripts to automatize QA, handling restful queries, XML parsing, data science (mostly with Python dataframes), among others.
+- 🌱 I’m currently learning bash scripting, Javascript and LXC.
 - 💞️ I’m looking to collaborate on Data Engineer projects.
 - 📫 How to reach me : pablo.lg.unlam@gmail.com
 
